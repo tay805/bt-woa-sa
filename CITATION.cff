@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this, please cite the paper below."
+title: "BT-WOA-SA: Bayesian trust-aware metaheuristic clustering for wireless sensor networks"
+authors:
+  - family-names: Teli
+    given-names: Tawseef Ahmed
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Bayesian Trust-Aware Metaheuristic Clustering Framework for Secure and Energy-Efficient IoT-Enabled Wireless Sensor Networks"
+  authors:
+    - family-names: Teli
+      given-names: Tawseef Ahmed
+  journal: ""
+  year: 2026
+  notes: "Submitted"
