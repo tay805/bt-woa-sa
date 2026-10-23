@@ -5,8 +5,6 @@ This repository contains the complete code, raw results and analysis scripts for
 > T. A. Teli, "A Bayesian Trust-Aware Metaheuristic Clustering Framework for Secure and
 > Energy-Efficient IoT-Enabled Wireless Sensor Networks".
 
-Every number, table and figure in the paper can be regenerated from this repository.
-
 ## What the method does
 
 In a clustered sensor network, a cluster head (CH) that silently drops part of its members'
