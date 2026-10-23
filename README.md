@@ -3,7 +3,7 @@
 This repository contains the complete code, raw results and analysis scripts for the paper
 
 > T. A. Teli, "A Bayesian Trust-Aware Metaheuristic Clustering Framework for Secure and
-> Energy-Efficient IoT-Enabled Wireless Sensor Networks", submitted to ** .
+> Energy-Efficient IoT-Enabled Wireless Sensor Networks".
 
 Every number, table and figure in the paper can be regenerated from this repository.
 
